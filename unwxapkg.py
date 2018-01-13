@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# by @wenxingxing
 # usage python unwxapkg.py filename
 
 import sys, os
